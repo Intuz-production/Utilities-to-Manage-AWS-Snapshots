@@ -47,7 +47,7 @@ This script is used for Update Management of AWS AMIs. We have created it to let
 
 -  Then install the AWS CLI tools:
 
-  - Install AWS CLI tools
+    - Install AWS CLI tools
 
     ```sh
    sudo pip install awscli
