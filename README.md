@@ -1,5 +1,5 @@
 <h1> Introduction </h1>
-INTUZ is presenting Automated Scripts for AWS EBS Snapshot and Patch update Management. These scripts will help you for creating snapshot, backup, update & Patch upgrade by setting scheduling cron jobs. Please follow the below steps to run the script.
+INTUZ is presenting Automated Scripts for AWS EBS Snapshots and Patch Update Management. These scripts will help you for creating snapshot, backup, update & Patch upgrade by scheduling cron jobs. Please follow the below steps to run the script.
 
  <h1>Features</h1>
 
